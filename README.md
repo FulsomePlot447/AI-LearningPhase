@@ -195,4 +195,7 @@ By completing the notebooks in this repository, you will gain hands-on experienc
 ---
 
 ## ⭐ If you find this repository helpful, consider giving it a star and following my work!
-## MORE TRACKS COMING SOON
+
+## CHECK OUT MY MODELS AT FULSOME/ AT HUGGING FACE WEBSITE
+
+## MORE TRACKS COMING SOON!!!!!!!!!!!!!!!!
