@@ -8,13 +8,15 @@ A comprehensive collection of notebooks covering the fundamentals and practical 
 
 ```
 ├── notebooks/
-│   ├── 01_FashionNet.ipynb
-│   ├── 02_FoodModel.ipynb
-│   ├── 03_Model_deployment.ipynb
-│   ├── 04_Non_linear_data.ipynb
-│   ├── 05_Paper_replicating.ipynb
-│   ├── 06_Transfer_learning.ipynb
-│   ├── 07_Experiment_tracking.ipynb
+│   ├── 01_Custom.ipynb
+│   ├── 02_Experiment_tracking.ipynb
+│   ├── 03_FashionNet.ipynb
+│   ├── 04_FoodModel.ipynb
+│   ├── 05_Model_delpoyment.ipynb
+│   ├── 06_Non_linear_data.ipynb
+│   ├── 07_Paper_Replicating.ipynb
+|   ├── 08_Transfer_learning.ipynb
+|   ├── 09_Xor.ipynb
 │
 ├── data.zip/
 │   ├── pizza_steak_sushi
@@ -247,6 +249,25 @@ Monitor and compare model performance during training.
 * Performance comparison
 
 ---
+
+## 8. Implementing XOR Gate using Linear Neural Networks
+
+A basic implementation of XOR Gate
+
+## 9. Custom Neural Network using numpy
+
+A design of Linear layer using numpy and maths
+
+## Topic Covered
+
+* Numpy
+* Calculas Maths
+* Linear Layer
+
+**Skills Learned**
+
+* Numpy
+* Depth and Working of Linear Layer
 
 # 📦 Dataset
 
