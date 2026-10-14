@@ -17,6 +17,7 @@ A comprehensive collection of notebooks covering the fundamentals and practical 
 │   ├── 07_Paper_Replicating.ipynb
 |   ├── 08_Transfer_learning.ipynb
 |   ├── 09_Xor.ipynb
+|   ├── 10_Parkinson_Disease.ipynb
 │
 ├── data.zip/
 │   ├── pizza_steak_sushi
