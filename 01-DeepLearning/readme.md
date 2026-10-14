@@ -269,6 +269,10 @@ A design of Linear layer using numpy and maths
 * Numpy
 * Depth and Working of Linear Layer
 
+## 10. A Parkinson Disease Analyzer
+
+A computer vision model using monai library to identify if brain MRI scan shows Parkinson positive or negative.
+
 # 📦 Dataset
 
 This repository includes the **Pizza, Steak, Sushi** dataset used throughout multiple notebooks.
